@@ -1,1 +1,1 @@
-# Fexi Fit Project 
+# Fexi Fit Project (A GYM Management System)
